@@ -3,18 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/gamemanagers/GameTimerManager.js</file>
             <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/index.php</file>
             <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/screens/loadProfile.js</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/controller/create-db.php</file>
             <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/screens/newProfile.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/gamemanagers/SpendGold.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/gamemanagers/HeroDeathManager.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/screens/spendExp.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/resources.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/screens/title.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/gamemanagers/GameManager.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/entities/EnemyCreep.js</file>
-            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/js/game.js</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/controller/create-user.php</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/model/config.php</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/model/Database.php</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/index.css</file>
+            <file>file:/C:/xampp/htdocs/RoblesC-Awesomenauts/php/controller/save-user.php</file>
         </group>
     </open-files>
 </project-private>

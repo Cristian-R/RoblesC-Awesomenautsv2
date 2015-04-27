@@ -26,5 +26,5 @@ if ($query) {
     echo "true";
  
 } else {
-    "<p>" . $_SESSION["connection"]->error . "</p>";
+    "<p>" .$_SESSION["connection"]->error . "</p>";
 }

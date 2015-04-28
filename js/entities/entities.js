@@ -205,15 +205,9 @@ game.PlayerEntity = me.Entity.extend({
     
     hitCreep: function (response){
     if (response.b.health <= game.data.playerAttack) {
-                    this.killEnemygold();
+                   game.data.gold += 1;
                 }
                 response.b.loseHealth(game.data.playerAttack);
     },
-    
-    killEnemygold: function(){
-        
-        game.data.gold += 1;
-        //this is so that you get +1 gold and it keeps count of gold
-        //console.log("Current gold:" + game.data.gold);
-    }
+
 });

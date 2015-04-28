@@ -50,18 +50,24 @@ game.SpendExp = me.ScreenObject.extend({
 
     },
     /**	
-     *  action to perform when leaving this screen (state change)
+     * action to perform when leaving this screen (state change)
      **/
     onDestroyEvent: function() {
         me.input.unbindKey(me.input.KEY.F1, "F1");
+        //all of these just make it so that once 
         me.input.unbindKey(me.input.KEY.F2, "F2");
+        //we start the game/ or change the screen 
         me.input.unbindKey(me.input.KEY.F3, "F3");
+        //we cant use these buttons anymore
         me.input.unbindKey(me.input.KEY.F4, "F4");
+        
         me.input.unbindKey(me.input.KEY.F5, "F5");
+        
         me.event.unsubscribe(this.handler);
+        
     }
+    
 });
-
 
 
 

@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <?php 
 require_once ("php/controller/create-db.php");
-
 ?>
+
 <html>
     <head>
         <title>RoblesC-Awesomenauts</title>
@@ -114,7 +114,6 @@ require_once ("php/controller/create-db.php");
                 data:{
                     username: $('#username').val(),
                     password: $('#password').val()
-                    
                 },
                 dataType: "text"
             })

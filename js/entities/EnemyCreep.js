@@ -14,7 +14,7 @@ game.EnemyCreep = me.Entity.extend({
 
         this.health = game.data.enemyCreepHealth;
         this.alwaysUpdate = true;
-        //this.attackinglets us know if the enemy is attacking
+        //this.attacking lets us know if the enemy is attacking
         this.attacking = false;
         this.lastAttacking = new Date().getTime();
         this.lastHit = new Date().getTime();

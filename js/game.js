@@ -4,12 +4,14 @@ var game = {
     // an object where to store game information
     data: {
         score: 0,
+        option1:"",
+        option2:"",
         enemyBaseHealth: 1,
-        playerBaseHealth: 120000,
+        playerBaseHealth: 10,
         enemyCreepHealth: 10,
         playerHealth: 10,
         enemyCreepAttack: 1,
-        playerAttack: 1000,
+        playerAttack: 1555,
         playerAttackTimer: 800,
         //orcBaseHealth:"",
         //orcAttackTimer: "",

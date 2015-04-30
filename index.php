@@ -34,7 +34,7 @@ require_once ("php/controller/create-db.php");
                 <input type="text" name="username" id="username" autocomplete="off">
                 
             </div>    
-            
+              
             <div class="password">
                 <label for="password">password</label>
                 <input type="password" name="password" id="password">
@@ -44,7 +44,6 @@ require_once ("php/controller/create-db.php");
             <button type="button" id="load">Load</button>
             <button type="button" id="mainmenu">Main Menu</button>
         </form>
-        
         
         
         
@@ -64,6 +63,7 @@ require_once ("php/controller/create-db.php");
         <script type="text/javascript" src="js/entities/PlayerBaseEntity.js"></script>
         <script type="text/javascript" src="js/entities/EnemyCreep.js"></script>
         <script type="text/javascript" src="js/entities/HUD.js"></script>
+        <script type="text/javascript" src="js/entities/SpearThrow.js"></script>
         <!--Game Managers-->
         <script type="text/javascript" src="js/gamemanagers/GameManager.js"></script>
         <script type="text/javascript" src="js/gamemanagers/GameTimerManager.js"></script>
